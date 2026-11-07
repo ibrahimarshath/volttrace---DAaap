@@ -32,3 +32,11 @@
 node_modules/
 .next/
 .env
+
+# Python
+__pycache__/
+*.pyc
+
+# Build artifacts
+*.tar.gz
+*.db
