@@ -4,7 +4,6 @@ A full-stack decentralized application for tracking EV battery pack lifecycles o
 
 **Contract:** [`0x5288C0C8c67ea5E3Be693e4F42CfA4210515e44e`](https://sepolia.etherscan.io/address/0x5288C0C8c67ea5E3Be693e4F42CfA4210515e44e) (Sepolia Testnet) — [Verified Source (Blockscout)](https://eth-sepolia.blockscout.com/address/0x5288C0C8c67ea5E3Be693e4F42CfA4210515e44e#code)
 
-[Verified Source (Blockscout)](https://eth-sepolia.blockscout.com/address/0x5288C0C8c67ea5E3Be693e4F42CfA4210515e44e#code)
 
 ## Architecture
 
